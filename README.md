@@ -69,9 +69,9 @@ essas informações são representadas por variáveis diferentes nos microdados 
 
 os dados foram obtidos no [portal de microdados do Censo Escolar — INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar).
 
-o recorte considera unidades públicas do Distrito Federal em atividade, pertencentes às dependências administrativas federal e estadual.
+o recorte considera unidades públicas do Distrito Federal em atividade, pertencentes às dependências administrativas federal e distrital.
 
-das 716 unidades analisadas, **11 são federais e 705 estaduais**.
+das 716 unidades analisadas, **11 são federais e 705 distritais**.
 
 alguns pontos são importantes para a interpretação dos resultados:
 
